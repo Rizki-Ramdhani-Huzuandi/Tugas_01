@@ -20,4 +20,3 @@ if(isset($_POST["submit"])){
      echo "Piih dulu konversinya";
  }
 }
-?> 
